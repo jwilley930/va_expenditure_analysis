@@ -1,0 +1,10 @@
+'GDX_FY20.xlsx'
+https://www.va.gov/vetdata/expenditures.asp
+
+'facility_type_list.csv'
+
+'FY_2020_Disability_Compenation_Recipient
+
+'health_info_by_state.csv'
+
+'va_facilities_list.xlsx'

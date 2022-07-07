@@ -1,0 +1,23 @@
+'GDX_FY20.xlsx'
+'GDX_FY21.xlsx'
+'GDX_FY07-21.xlsx'
+https://www.va.gov/vetdata/expenditures.asp
+
+
+'Education.xlsx'
+'PovertyEstiates.xlsx'
+'Unemployment.xlsx'
+https://www.ers.usda.gov/data-products/county-level-data-sets/
+
+
+2021 County Health Rankings Data
+https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation
+
+
+
+'facility_type_list.csv'
+'va_facilities_list.xlsx'
+
+
+'FY_2020_Disability_Compenation_Recipient
+'health_info_by_state.csv'
